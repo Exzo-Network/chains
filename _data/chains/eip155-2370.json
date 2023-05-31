@@ -1,0 +1,23 @@
+{
+  "name": "Exzo Network Testnet",
+  "chain": "EXZO",
+  "icon": "exzo",
+  "rpc": ["https://evm-test.exzo.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Exzo",
+    "symbol": "XZO",
+    "decimals": 18
+  },
+  "infoURL": "https://exzo.network",
+  "shortName": "xzo",
+  "chainId": 2370,
+  "networkId": 2370,
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://evm-testnet.exzoscan.io/",
+      "standard": "EIP3091"
+    }
+  ]
+}
